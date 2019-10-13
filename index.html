@@ -1,43 +1,76 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN">
-<html>
-<head>
-  <title link href="https://fonts.googleapis.com/css?family=Roboto+Slab&display=swap" rel="stylesheet"></title>My first styled page</title>
-  <link rel="stylesheet" href="style.css">
-</head>
 
-<body>
-
-       
+<!doctype HTML>
+<html lang="en">
+	<head>
+		<meta charset="utf-8"/>
+        <title>Math Quiz</title>
+        <link rel="stylesheet" href="stylesheet.css">
+        <link href="https://fonts.googleapis.com/css?family=Josefin+Sans&display=swap" rel="stylesheet">
+    </head>
     
+		<body>
 
-<!-- Site navigation menu -->
-<ul class="navbar">
-  <li><a href="index.html">Home page</a>
-  <li><a href="musings.html">Musings</a>
-  <li><a href="town.html">My town</a>
-  <li><a href="links.html">Links</a>
-</ul>
+        <section>
+           <h1>Math Quiz Game</h1>
+           <div class="centerdiv">
+                <div class="insertBox">
+                    <div class="box1">
+                        <input type="text" id="v1">
+                    </div>
+                    <div class="box1">
+                            <p>+</p>
+                        </div>
+                        <div class="box1">
+                                <input type="text" id="v2">
+                            </div>    
+                      </div>
 
-<!-- Main content -->
-<h1 h1 {
-    font-family: Helvetica, Geneva, Arial,
-          SunSans-Regular, sans-serif }>My first styled page</h1>
-          
-         
-        
+                    <div class="middleBox">
+                         <input type="text" id="answ">     
+                    </div>  
 
-<p>Welcome to my styled page!
+                    <div class="sentBox">
+                        <button onclick="jsGames()">Check Answer</button>
+                    </div>
+           </div>
 
-<p>It lacks images, but at least it has style.
-And it has links, even if they don't go
-anywhere&hellip;
+        </section>    
 
-<p>There should be more here, but I don't know
-what yet.
+     <script>
+     
+     let n1 = Math.floor(Math.random()*10+1);
+     let n2 = Math.floor(Math.random()*10+1);
 
-<!-- Sign and date the page, it's only polite! -->
-<address>Made 5 April 2004<br>
-  by myself.</address>
+     document.getElementById('v1').value = n1;
+     document.getElementById('v2').value = n2;
 
-</body>
-</html>
+     let ans = n1 + n2;
+
+     const jsGames = () => {
+         var usera = document.getElementById('answ').value;
+
+         if(usera == ans) {
+             alert('You are right! Well done!');
+         }else {
+             alert("Corret answet should be " + ans + ". Try Again. "); 
+         }
+
+         document.getElementById('answ').value = "";
+         n1 = Math.floor(Math.random()*10+1);
+         n2 = Math.floor(Math.random()*10+1);
+
+         document.getElementById('v1').value = n1;
+         document.getElementById('v2').value = n2;
+
+         ans = n1 + n2;
+     }
+
+
+
+     </script>   
+
+     
+    </body>
+
+              
+</html> 
