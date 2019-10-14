@@ -26,7 +26,7 @@ section h1 { text-transform: capitalize;
 width: 500px;
 height: 400px;
 background-color: lightyellow;
-display: flex;
+display: flex; 
 justify-content: center;
 align-items: center;
 flex-direction: column;
