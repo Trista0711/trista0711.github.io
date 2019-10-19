@@ -1,0 +1,1792 @@
+{  
+    "data"     :     [   
+	{
+	  "Ingredient": "Chives",
+	  "Serving size": "1 tbsp, chopped",
+	  "Gram": "3 g",
+	  "Calories": "1 cal"
+	},
+	{
+	  "Ingredient": "Radishes",
+	  "Serving size": "1 radish",
+	  "Gram": "4.5 g",
+	  "Calories": "1 cal"
+	},
+	{
+	  "Ingredient": "Mushrooms",
+	  "Serving size": "1 mushroom",
+	  "Gram": "5.4 g",
+	  "Calories": "1 cal"
+	},
+	{
+	  "Ingredient": "Arugula",
+	  "Serving size": "1 leaf",
+	  "Gram": "2 g",
+	  "Calories": "1 cal"
+	},
+	{
+	  "Ingredient": "Nori",
+	  "Serving size": "1 sheet",
+	  "Gram": "2.6 g",
+	  "Calories": "1 cal"
+	},
+	{
+	  "Ingredient": "Green Olives",
+	  "Serving size": "1 olive",
+	  "Gram": "2.7 g",
+	  "Calories": "2 cal"
+	},
+	{
+	  "Ingredient": "Black Olives",
+	  "Serving size": "1 olive",
+	  "Gram": "2.7 g",
+	  "Calories": "2 cal"
+	},
+	{
+	  "Ingredient": "Asparagus",
+	  "Serving size": "1 spear",
+	  "Gram": "12 g",
+	  "Calories": "2 cal"
+	},
+	{
+	  "Ingredient": "Olives",
+	  "Serving size": "1 olive",
+	  "Gram": "2.7 g",
+	  "Calories": "2 cal"
+	},
+	{
+	  "Ingredient": "Cauliflower",
+	  "Serving size": "1 floweret",
+	  "Gram": "13 g",
+	  "Calories": "3 cal"
+	},
+	{
+	  "Ingredient": "Garlic",
+	  "Serving size": "1 clove",
+	  "Gram": "3 g",
+	  "Calories": "4 cal"
+	},
+	{
+	  "Ingredient": "Okra",
+	  "Serving size": "1 pod",
+	  "Gram": "12 g",
+	  "Calories": "4 cal"
+	},
+	{
+	  "Ingredient": "Green Onion",
+	  "Serving size": "1 green onion",
+	  "Gram": "15 g",
+	  "Calories": "5 cal"
+	},
+	{
+	  "Ingredient": "Celery",
+	  "Serving size": "1 stalk",
+	  "Gram": "40 g",
+	  "Calories": "6 cal"
+	},
+	{
+	  "Ingredient": "Horseradish",
+	  "Serving size": "1 tbsp",
+	  "Gram": "15 g",
+	  "Calories": "7 cal"
+	},
+	{
+	  "Ingredient": "Red Cabbage",
+	  "Serving size": "1 leaf",
+	  "Gram": "22 g",
+	  "Calories": "7 cal"
+	},
+	{
+	  "Ingredient": "Brussels Sprouts",
+	  "Serving size": "1 sprout",
+	  "Gram": "19 g",
+	  "Calories": "8 cal"
+	},
+	{
+	  "Ingredient": "Gherkin",
+	  "Serving size": "1 gherkin",
+	  "Gram": "65 g",
+	  "Calories": "9 cal"
+	},
+	{
+	  "Ingredient": "Chard",
+	  "Serving size": "1 leaf",
+	  "Gram": "48 g",
+	  "Calories": "9 cal"
+	},
+	{
+	  "Ingredient": "Capsicum",
+	  "Serving size": "1 pepper",
+	  "Gram": "45 g",
+	  "Calories": "12 cal"
+	},
+	{
+	  "Ingredient": "Collard Greens",
+	  "Serving size": "1 cup, raw",
+	  "Gram": "36 g",
+	  "Calories": "12 cal"
+	},
+	{
+	  "Ingredient": "Mustard Greens",
+	  "Serving size": "1 cup, chopped",
+	  "Gram": "56 g",
+	  "Calories": "15 cal"
+	},
+	{
+	  "Ingredient": "Bell Pepper",
+	  "Serving size": "1 pepper",
+	  "Gram": "73 g",
+	  "Calories": "15 cal"
+	},
+	{
+	  "Ingredient": "Shallots",
+	  "Serving size": "1 shallot",
+	  "Gram": "25 g",
+	  "Calories": "18 cal"
+	},
+	{
+	  "Ingredient": "Pepper",
+	  "Serving size": "1 pepper",
+	  "Gram": "75 g",
+	  "Calories": "20 cal"
+	},
+	{
+	  "Ingredient": "Tomato",
+	  "Serving size": "1 tomato",
+	  "Gram": "111 g",
+	  "Calories": "20 cal"
+	},
+	{
+	  "Ingredient": "Cherry Tomato",
+	  "Serving size": "1 cherry tomato",
+	  "Gram": "20 g",
+	  "Calories": "20 cal"
+	},
+	{
+	  "Ingredient": "Carrot",
+	  "Serving size": "1 carrot",
+	  "Gram": "61 g",
+	  "Calories": "25 cal"
+	},
+	{
+	  "Ingredient": "Kale",
+	  "Serving size": "1 cup, chopped",
+	  "Gram": "67 g",
+	  "Calories": "33 cal"
+	},
+	{
+	  "Ingredient": "Zucchini",
+	  "Serving size": "1 zucchini",
+	  "Gram": "196 g",
+	  "Calories": "33 cal"
+	},
+	{
+	  "Ingredient": "Courgette",
+	  "Serving size": "1 courgette",
+	  "Gram": "196 g",
+	  "Calories": "33 cal"
+	},
+	{
+	  "Ingredient": "Turnips",
+	  "Serving size": "1 turnip",
+	  "Gram": "122 g",
+	  "Calories": "34 cal"
+	},
+	{
+	  "Ingredient": "Turnip Greens",
+	  "Serving size": "1 turnip green",
+	  "Gram": "170 g",
+	  "Calories": "34 cal"
+	},
+	{
+	  "Ingredient": "Onion",
+	  "Serving size": "1 onion",
+	  "Gram": "85 g",
+	  "Calories": "34 cal"
+	},
+	{
+	  "Ingredient": "Green Beans",
+	  "Serving size": "1 cup",
+	  "Gram": "110 g",
+	  "Calories": "34 cal"
+	},
+	{
+	  "Ingredient": "Beetroot",
+	  "Serving size": "1 beet",
+	  "Gram": "82 g",
+	  "Calories": "35 cal"
+	},
+	{
+	  "Ingredient": "Chicory",
+	  "Serving size": "1 head",
+	  "Gram": "53 g",
+	  "Calories": "38 cal"
+	},
+	{
+	  "Ingredient": "Pumpkin",
+	  "Serving size": "1 pumpkin",
+	  "Gram": "196 g",
+	  "Calories": "51 cal"
+	},
+	{
+	  "Ingredient": "Leek",
+	  "Serving size": "1 leek",
+	  "Gram": "89 g",
+	  "Calories": "54 cal"
+	},
+	{
+	  "Ingredient": "Artichoke",
+	  "Serving size": "1 artichoke",
+	  "Gram": "128 g",
+	  "Calories": "60 cal"
+	},
+	{
+	  "Ingredient": "Cucumber",
+	  "Serving size": "1 cucumber",
+	  "Gram": "410 g",
+	  "Calories": "66 cal"
+	},
+	{
+	  "Ingredient": "Fennel",
+	  "Serving size": "1 bulb",
+	  "Gram": "234 g",
+	  "Calories": "73 cal"
+	},
+	{
+	  "Ingredient": "Spinach",
+	  "Serving size": "1 bunch",
+	  "Gram": "340 g",
+	  "Calories": "78 cal"
+	},
+	{
+	  "Ingredient": "Peas",
+	  "Serving size": "1 cup",
+	  "Gram": "98 g",
+	  "Calories": "79 cal"
+	},
+	{
+	  "Ingredient": "Endive",
+	  "Serving size": "1 head",
+	  "Gram": "513 g",
+	  "Calories": "87 cal"
+	},
+	{
+	  "Ingredient": "Squash",
+	  "Serving size": "1 squash",
+	  "Gram": "196 g",
+	  "Calories": "88 cal"
+	},
+	{
+	  "Ingredient": "Lettuce",
+	  "Serving size": "1 head",
+	  "Gram": "600 g",
+	  "Calories": "90 cal"
+	},
+	{
+	  "Ingredient": "Kohlrabi",
+	  "Serving size": "1 kohlrabi",
+	  "Gram": "400 g",
+	  "Calories": "108 cal"
+	},
+	{
+	  "Ingredient": "Gourd",
+	  "Serving size": "1 gourd",
+	  "Gram": "771 g",
+	  "Calories": "108 cal"
+	},
+	{
+	  "Ingredient": "Kumara",
+	  "Serving size": "1 kumara",
+	  "Gram": "130 g",
+	  "Calories": "112 cal"
+	},
+	{
+	  "Ingredient": "Sweet Potato",
+	  "Serving size": "1 potato",
+	  "Gram": "130 g",
+	  "Calories": "112 cal"
+	},
+	{
+	  "Ingredient": "Eggplant",
+	  "Serving size": "1 eggplant",
+	  "Gram": "458 g",
+	  "Calories": "115 cal"
+	},
+	{
+	  "Ingredient": "Aubergine",
+	  "Serving size": "1 aubergine",
+	  "Gram": "458 g",
+	  "Calories": "115 cal"
+	},
+	{
+	  "Ingredient": "Parsnips",
+	  "Serving size": "1 parsnip",
+	  "Gram": "170 g",
+	  "Calories": "128 cal"
+	},
+	{
+	  "Ingredient": "Chinese Cabbage",
+	  "Serving size": "1 head",
+	  "Gram": "840 g",
+	  "Calories": "134 cal"
+	},
+	{
+	  "Ingredient": "Rutabaga",
+	  "Serving size": "1 rutabaga",
+	  "Gram": "386 g",
+	  "Calories": "147 cal"
+	},
+	{
+	  "Ingredient": "Winter Squash",
+	  "Serving size": "1 squash",
+	  "Gram": "431 g",
+	  "Calories": "147 cal"
+	},
+	{
+	  "Ingredient": "Creamed Spinach",
+	  "Serving size": "1 cup",
+	  "Gram": "200 g",
+	  "Calories": "148 cal"
+	},
+	{
+	  "Ingredient": "Potato",
+	  "Serving size": "1 potato",
+	  "Gram": "213 g",
+	  "Calories": "164 cal"
+	},
+	{
+	  "Ingredient": "Wasabi",
+	  "Serving size": "1 root",
+	  "Gram": "169 g",
+	  "Calories": "184 cal"
+	},
+	{
+	  "Ingredient": "Broccoli",
+	  "Serving size": "1 bunch",
+	  "Gram": "608 g",
+	  "Calories": "207 cal"
+	},
+	{
+	  "Ingredient": "Cabbage",
+	  "Serving size": "1 head",
+	  "Gram": "908 g",
+	  "Calories": "227 cal"
+	},
+	{
+	  "Ingredient": "Corn",
+	  "Serving size": "1 cup",
+	  "Gram": "154 g",
+	  "Calories": "562 cal"
+	},
+	{
+	  "Ingredient": "Olives",
+	  "Serving size": "1 olive",
+	  "Gram": "2.7 g",
+	  "Calories": "2 cal"
+	},
+	{
+	  "Ingredient": "Greengage",
+	  "Serving size": "1 fruit",
+	  "Gram": "5 g",
+	  "Calories": "2 cal"
+	},
+	{
+	  "Ingredient": "Physalis",
+	  "Serving size": "1 berry",
+	  "Gram": "5 g",
+	  "Calories": "2 cal"
+	},
+	{
+	  "Ingredient": "Cherries",
+	  "Serving size": "1 cherry",
+	  "Gram": "8 g",
+	  "Calories": "4 cal"
+	},
+	{
+	  "Ingredient": "Tamarind",
+	  "Serving size": "1 tamarind",
+	  "Gram": "2 g",
+	  "Calories": "5 cal"
+	},
+	{
+	  "Ingredient": "Rambutan",
+	  "Serving size": "1 rambutan",
+	  "Gram": "9 g",
+	  "Calories": "7 cal"
+	},
+	{
+	  "Ingredient": "Lychees",
+	  "Serving size": "1 lychee",
+	  "Gram": "10 g",
+	  "Calories": "7 cal"
+	},
+	{
+	  "Ingredient": "Rhubarb",
+	  "Serving size": "1 stalk",
+	  "Gram": "51 g",
+	  "Calories": "11 cal"
+	},
+	{
+	  "Ingredient": "Lemon",
+	  "Serving size": "1 lemon",
+	  "Gram": "58 g",
+	  "Calories": "17 cal"
+	},
+	{
+	  "Ingredient": "Passion Fruit",
+	  "Serving size": "1 passoin fruit",
+	  "Gram": "18 g",
+	  "Calories": "17 cal"
+	},
+	{
+	  "Ingredient": "Apricot",
+	  "Serving size": "1 apricot",
+	  "Gram": "35 g",
+	  "Calories": "17 cal"
+	},
+	{
+	  "Ingredient": "Acai",
+	  "Serving size": "1 oz.",
+	  "Gram": "28.35 g",
+	  "Calories": "20 cal"
+	},
+	{
+	  "Ingredient": "Lime",
+	  "Serving size": "1 lime",
+	  "Gram": "67 g",
+	  "Calories": "20 cal"
+	},
+	{
+	  "Ingredient": "Dates",
+	  "Serving size": "1 date",
+	  "Gram": "7.1 g",
+	  "Calories": "20 cal"
+	},
+	{
+	  "Ingredient": "Jujube",
+	  "Serving size": "1 oz.",
+	  "Gram": "28.35 g",
+	  "Calories": "22 cal"
+	},
+	{
+	  "Ingredient": "Cantaloupe",
+	  "Serving size": "1 wedge",
+	  "Gram": "69 g",
+	  "Calories": "23 cal"
+	},
+	{
+	  "Ingredient": "Starfruit",
+	  "Serving size": "1 star fruit",
+	  "Gram": "91 g",
+	  "Calories": "28 cal"
+	},
+	{
+	  "Ingredient": "Plum",
+	  "Serving size": "1 plum",
+	  "Gram": "66 g",
+	  "Calories": "30 cal"
+	},
+	{
+	  "Ingredient": "Persimmon",
+	  "Serving size": "1 fruit",
+	  "Gram": "25 g",
+	  "Calories": "32 cal"
+	},
+	{
+	  "Ingredient": "Clementine",
+	  "Serving size": "1 clementine",
+	  "Gram": "74 g",
+	  "Calories": "35 cal"
+	},
+	{
+	  "Ingredient": "Guava",
+	  "Serving size": "1 guava",
+	  "Gram": "55 g",
+	  "Calories": "37 cal"
+	},
+	{
+	  "Ingredient": "Figs",
+	  "Serving size": "1 fig",
+	  "Gram": "50 g",
+	  "Calories": "37 cal"
+	},
+	{
+	  "Ingredient": "Cranberries",
+	  "Serving size": "1 cup",
+	  "Gram": "100 g",
+	  "Calories": "46 cal"
+	},
+	{
+	  "Ingredient": "Tangerine",
+	  "Serving size": "1 tangerine",
+	  "Gram": "88 g",
+	  "Calories": "47 cal"
+	},
+	{
+	  "Ingredient": "Mandarin Oranges",
+	  "Serving size": "1 mandarin orange",
+	  "Gram": "88 g",
+	  "Calories": "47 cal"
+	},
+	{
+	  "Ingredient": "Strawberries",
+	  "Serving size": "1 cup",
+	  "Gram": "152 g",
+	  "Calories": "49 cal"
+	},
+	{
+	  "Ingredient": "Quince",
+	  "Serving size": "1 quince",
+	  "Gram": "92 g",
+	  "Calories": "52 cal"
+	},
+	{
+	  "Ingredient": "Peach",
+	  "Serving size": "1 peach",
+	  "Gram": "150 g",
+	  "Calories": "59 cal"
+	},
+	{
+	  "Ingredient": "Mulberries",
+	  "Serving size": "1 cup",
+	  "Gram": "140 g",
+	  "Calories": "60 cal"
+	},
+	{
+	  "Ingredient": "Blackberries",
+	  "Serving size": "1 cup",
+	  "Gram": "144 g",
+	  "Calories": "62 cal"
+	},
+	{
+	  "Ingredient": "Orange",
+	  "Serving size": "1 orange",
+	  "Gram": "131 g",
+	  "Calories": "62 cal"
+	},
+	{
+	  "Ingredient": "Currants",
+	  "Serving size": "1 cup",
+	  "Gram": "112 g",
+	  "Calories": "63 cal"
+	},
+	{
+	  "Ingredient": "Raspberries",
+	  "Serving size": "1 cup",
+	  "Gram": "123 g",
+	  "Calories": "64 cal"
+	},
+	{
+	  "Ingredient": "Nectarine",
+	  "Serving size": "1 nectarine",
+	  "Gram": "150 g",
+	  "Calories": "66 cal"
+	},
+	{
+	  "Ingredient": "Minneola",
+	  "Serving size": "1 minneola",
+	  "Gram": "109 g",
+	  "Calories": "70 cal"
+	},
+	{
+	  "Ingredient": "Blood Oranges",
+	  "Serving size": "1 serving",
+	  "Gram": "140 g",
+	  "Calories": "70 cal"
+	},
+	{
+	  "Ingredient": "Blueberries",
+	  "Serving size": "1 cup",
+	  "Gram": "148 g",
+	  "Calories": "84 cal"
+	},
+	{
+	  "Ingredient": "Watermelon",
+	  "Serving size": "1 wedge",
+	  "Gram": "286 g",
+	  "Calories": "86 cal"
+	},
+	{
+	  "Ingredient": "Apple",
+	  "Serving size": "1 apple",
+	  "Gram": "182 g",
+	  "Calories": "95 cal"
+	},
+	{
+	  "Ingredient": "Pear",
+	  "Serving size": "1 pear",
+	  "Gram": "178 g",
+	  "Calories": "101 cal"
+	},
+	{
+	  "Ingredient": "Grapes",
+	  "Serving size": "1 cup",
+	  "Gram": "151 g",
+	  "Calories": "104 cal"
+	},
+	{
+	  "Ingredient": "Banana",
+	  "Serving size": "1 banana",
+	  "Gram": "125 g",
+	  "Calories": "111 cal"
+	},
+	{
+	  "Ingredient": "Kiwi",
+	  "Serving size": "1 liwi",
+	  "Gram": "183 g",
+	  "Calories": "112 cal"
+	},
+	{
+	  "Ingredient": "Fruit salad",
+	  "Serving size": "1 cup",
+	  "Gram": "249 g",
+	  "Calories": "125 cal"
+	},
+	{
+	  "Ingredient": "Custard Apple",
+	  "Serving size": "1 custard apple",
+	  "Gram": "135 g",
+	  "Calories": "136 cal"
+	},
+	{
+	  "Ingredient": "Jackfruit",
+	  "Serving size": "1 cup",
+	  "Gram": "151 g",
+	  "Calories": "143 cal"
+	},
+	{
+	  "Ingredient": "Applesauce",
+	  "Serving size": "1 cup",
+	  "Gram": "246 g",
+	  "Calories": "167 cal"
+	},
+	{
+	  "Ingredient": "Mango",
+	  "Serving size": "1 mango",
+	  "Gram": "336 g",
+	  "Calories": "202 cal"
+	},
+	{
+	  "Ingredient": "Papaya",
+	  "Serving size": "1 fruit",
+	  "Gram": "500 g",
+	  "Calories": "215 cal"
+	},
+	{
+	  "Ingredient": "Plantains",
+	  "Serving size": "1 plantain",
+	  "Gram": "179 g",
+	  "Calories": "218 cal"
+	},
+	{
+	  "Ingredient": "Pomegranate",
+	  "Serving size": "1 pomegranate",
+	  "Gram": "282 g",
+	  "Calories": "234 cal"
+	},
+	{
+	  "Ingredient": "Avocado",
+	  "Serving size": "1 avocado",
+	  "Gram": "200 g",
+	  "Calories": "320 cal"
+	},
+	{
+	  "Ingredient": "Raisins",
+	  "Serving size": "1 cup",
+	  "Gram": "145 g",
+	  "Calories": "434 cal"
+	},
+	{
+	  "Ingredient": "Pineapple",
+	  "Serving size": "1 pineapple",
+	  "Gram": "905 g",
+	  "Calories": "453 cal"
+	},
+	{
+	  "Ingredient": "Shirataki Noodles",
+	  "Serving size": "2 oz.",
+	  "Gram": "56 g",
+	  "Calories": "10 cal"
+	},
+	{
+	  "Ingredient": "Ravioli",
+	  "Serving size": "2 oz.",
+	  "Gram": "56 g",
+	  "Calories": "43 cal"
+	},
+	{
+	  "Ingredient": "Dumpling Dough",
+	  "Serving size": "2 oz.",
+	  "Gram": "56 g",
+	  "Calories": "55 cal"
+	},
+	{
+	  "Ingredient": "Lasagne Sheets",
+	  "Serving size": "1 sheet",
+	  "Gram": "21 g",
+	  "Calories": "57 cal"
+	},
+	{
+	  "Ingredient": "Cannelloni",
+	  "Serving size": "2 oz.",
+	  "Gram": "56 g",
+	  "Calories": "82 cal"
+	},
+	{
+	  "Ingredient": "Cappelletti",
+	  "Serving size": "2 oz.",
+	  "Gram": "56 g",
+	  "Calories": "92 cal"
+	},
+	{
+	  "Ingredient": "Mostaccioli",
+	  "Serving size": "2 oz.",
+	  "Gram": "56 g",
+	  "Calories": "103 cal"
+	},
+	{
+	  "Ingredient": "Glass Noodles",
+	  "Serving size": "2 oz.",
+	  "Gram": "56 g",
+	  "Calories": "108 cal"
+	},
+	{
+	  "Ingredient": "Soy Noodles",
+	  "Serving size": "2 oz.",
+	  "Gram": "56 g",
+	  "Calories": "121 cal"
+	},
+	{
+	  "Ingredient": "Egg Noodles",
+	  "Serving size": "1 cup",
+	  "Gram": "38 g",
+	  "Calories": "146 cal"
+	},
+	{
+	  "Ingredient": "Low Carb Pasta",
+	  "Serving size": "2 oz.",
+	  "Gram": "56 g",
+	  "Calories": "158 cal"
+	},
+	{
+	  "Ingredient": "Whole Grain Noodles",
+	  "Serving size": "2 oz.",
+	  "Gram": "56 g",
+	  "Calories": "194 cal"
+	},
+	{
+	  "Ingredient": "Fusilli",
+	  "Serving size": "2 oz.",
+	  "Gram": "56 g",
+	  "Calories": "197 cal"
+	},
+	{
+	  "Ingredient": "Ziti",
+	  "Serving size": "2 oz.",
+	  "Gram": "56 g",
+	  "Calories": "197 cal"
+	},
+	{
+	  "Ingredient": "Whole Grain Spaghetti",
+	  "Serving size": "2 oz.",
+	  "Gram": "56 g",
+	  "Calories": "197 cal"
+	},
+	{
+	  "Ingredient": "Penne",
+	  "Serving size": "2 oz.",
+	  "Gram": "56 g",
+	  "Calories": "197 cal"
+	},
+	{
+	  "Ingredient": "Rotini",
+	  "Serving size": "2 oz.",
+	  "Gram": "56 g",
+	  "Calories": "198 cal"
+	},
+	{
+	  "Ingredient": "Capellini",
+	  "Serving size": "2 oz.",
+	  "Gram": "56 g",
+	  "Calories": "198 cal"
+	},
+	{
+	  "Ingredient": "Rigatoni",
+	  "Serving size": "2 oz.",
+	  "Gram": "56 g",
+	  "Calories": "198 cal"
+	},
+	{
+	  "Ingredient": "Fettuccine",
+	  "Serving size": "2 oz.",
+	  "Gram": "56 g",
+	  "Calories": "198 cal"
+	},
+	{
+	  "Ingredient": "Farfalle",
+	  "Serving size": "2 oz.",
+	  "Gram": "56 g",
+	  "Calories": "200 cal"
+	},
+	{
+	  "Ingredient": "Manicotti",
+	  "Serving size": "2 oz.",
+	  "Gram": "56 g",
+	  "Calories": "200 cal"
+	},
+	{
+	  "Ingredient": "Pierogi",
+	  "Serving size": "3 pierogi",
+	  "Gram": "100 g",
+	  "Calories": "200 cal"
+	},
+	{
+	  "Ingredient": "Linguine",
+	  "Serving size": "2 oz.",
+	  "Gram": "56 g",
+	  "Calories": "200 cal"
+	},
+	{
+	  "Ingredient": "Orzo",
+	  "Serving size": "2 oz.",
+	  "Gram": "56 g",
+	  "Calories": "200 cal"
+	},
+	{
+	  "Ingredient": "Vermicelli",
+	  "Serving size": "2 oz.",
+	  "Gram": "56 g",
+	  "Calories": "206 cal"
+	},
+	{
+	  "Ingredient": "Spirelli",
+	  "Serving size": "2 oz.",
+	  "Gram": "56 g",
+	  "Calories": "206 cal"
+	},
+	{
+	  "Ingredient": "Spaetzle",
+	  "Serving size": "2 oz.",
+	  "Gram": "56 g",
+	  "Calories": "206 cal"
+	},
+	{
+	  "Ingredient": "Tagliatelle",
+	  "Serving size": "2 oz.",
+	  "Gram": "56 g",
+	  "Calories": "207 cal"
+	},
+	{
+	  "Ingredient": "Spaghetti",
+	  "Serving size": "2 oz.",
+	  "Gram": "56 g",
+	  "Calories": "207 cal"
+	},
+	{
+	  "Ingredient": "Orecchiette",
+	  "Serving size": "2 oz.",
+	  "Gram": "56 g",
+	  "Calories": "207 cal"
+	},
+	{
+	  "Ingredient": "Penne Rigate",
+	  "Serving size": "2 oz.",
+	  "Gram": "56 g",
+	  "Calories": "207 cal"
+	},
+	{
+	  "Ingredient": "Durum Wheat Semolina",
+	  "Serving size": "2 oz.",
+	  "Gram": "56 g",
+	  "Calories": "222 cal"
+	},
+	{
+	  "Ingredient": "Dampfnudel",
+	  "Serving size": "1 dampfnudel",
+	  "Gram": "85 g",
+	  "Calories": "233 cal"
+	},
+	{
+	  "Ingredient": "Shells",
+	  "Serving size": "1 cup",
+	  "Gram": "85 g",
+	  "Calories": "300 cal"
+	},
+	{
+	  "Ingredient": "Spinach Tortellini",
+	  "Serving size": "1 cup",
+	  "Gram": "102 g",
+	  "Calories": "320 cal"
+	},
+	{
+	  "Ingredient": "Tortellini",
+	  "Serving size": "1 cup",
+	  "Gram": "113 g",
+	  "Calories": "329 cal"
+	},
+	{
+	  "Ingredient": "Cheese Tortellini",
+	  "Serving size": "1 cup",
+	  "Gram": "113 g",
+	  "Calories": "329 cal"
+	},
+	{
+	  "Ingredient": "Macaroni",
+	  "Serving size": "1 cup",
+	  "Gram": "114 g",
+	  "Calories": "422 cal"
+	},
+	{
+	  "Ingredient": "Cellophane Noodles",
+	  "Serving size": "1 cup",
+	  "Gram": "140 g",
+	  "Calories": "491 cal"
+	},
+	{
+	  "Ingredient": "Whipped Cream",
+	  "Serving size": "1 tbsp",
+	  "Gram": "3 g",
+	  "Calories": "8 cal"
+	},
+	{
+	  "Ingredient": "Tzatziki",
+	  "Serving size": "1 tbsp",
+	  "Gram": "15 g",
+	  "Calories": "18 cal"
+	},
+	{
+	  "Ingredient": "Sour Cream",
+	  "Serving size": "1 tbsp",
+	  "Gram": "12 g",
+	  "Calories": "22 cal"
+	},
+	{
+	  "Ingredient": "Coffee Creamer",
+	  "Serving size": "1 tbsp",
+	  "Gram": "15 g",
+	  "Calories": "29 cal"
+	},
+	{
+	  "Ingredient": "Cream",
+	  "Serving size": "1 tbsp",
+	  "Gram": "15 g",
+	  "Calories": "36 cal"
+	},
+	{
+	  "Ingredient": "Almond Milk",
+	  "Serving size": "1 cup",
+	  "Gram": "235 g",
+	  "Calories": "40 cal"
+	},
+	{
+	  "Ingredient": "Creme Fraiche",
+	  "Serving size": "1 tbsp",
+	  "Gram": "14 g",
+	  "Calories": "55 cal"
+	},
+	{
+	  "Ingredient": "Egg",
+	  "Serving size": "1 egg",
+	  "Gram": "60g",
+	  "Calories": "58 cal"
+	},
+	{
+	  "Ingredient": "Skim Milk",
+	  "Serving size": "1 cup",
+	  "Gram": "247 g",
+	  "Calories": "86 cal"
+	},
+	{
+	  "Ingredient": "Semolina Pudding",
+	  "Serving size": "1 serving",
+	  "Gram": "143 g",
+	  "Calories": "96 cal"
+	},
+	{
+	  "Ingredient": "Soy Milk",
+	  "Serving size": "1 cup",
+	  "Gram": "243 g",
+	  "Calories": "109 cal"
+	},
+	{
+	  "Ingredient": "Rice Milk",
+	  "Serving size": "1 cup",
+	  "Gram": "245 g",
+	  "Calories": "120 cal"
+	},
+	{
+	  "Ingredient": "Semi-skimmed Milk",
+	  "Serving size": "1 serving",
+	  "Gram": "250 g",
+	  "Calories": "125 cal"
+	},
+	{
+	  "Ingredient": "Lactose-free Milk",
+	  "Serving size": "1 cup",
+	  "Gram": "250 g",
+	  "Calories": "130 cal"
+	},
+	{
+	  "Ingredient": "Rice Pudding",
+	  "Serving size": "1 serving",
+	  "Gram": "113 g",
+	  "Calories": "133 cal"
+	},
+	{
+	  "Ingredient": "Kefir",
+	  "Serving size": "1 cup",
+	  "Gram": "246 g",
+	  "Calories": "135 cal"
+	},
+	{
+	  "Ingredient": "Yogurt",
+	  "Serving size": "1 container",
+	  "Gram": "227 g",
+	  "Calories": "138 cal"
+	},
+	{
+	  "Ingredient": "Plain Yogurt",
+	  "Serving size": "1 container",
+	  "Gram": "227 g",
+	  "Calories": "138 cal"
+	},
+	{
+	  "Ingredient": "Whole Milk",
+	  "Serving size": "1 cup",
+	  "Gram": "244 g",
+	  "Calories": "149 cal"
+	},
+	{
+	  "Ingredient": "Milk",
+	  "Serving size": "1 cup",
+	  "Gram": "244 g",
+	  "Calories": "149 cal"
+	},
+	{
+	  "Ingredient": "Lassi",
+	  "Serving size": "1 glass",
+	  "Gram": "200 g",
+	  "Calories": "150 cal"
+	},
+	{
+	  "Ingredient": "Buttermilk",
+	  "Serving size": "1 cup",
+	  "Gram": "254 g",
+	  "Calories": "157 cal"
+	},
+	{
+	  "Ingredient": "Goat Milk",
+	  "Serving size": "1 cup",
+	  "Gram": "244 g",
+	  "Calories": "168 cal"
+	},
+	{
+	  "Ingredient": "Custard",
+	  "Serving size": "1/2 cup",
+	  "Gram": "141 g",
+	  "Calories": "172 cal"
+	},
+	{
+	  "Ingredient": "Cottage Cheese",
+	  "Serving size": "1 cup",
+	  "Gram": "210 g",
+	  "Calories": "206 cal"
+	},
+	{
+	  "Ingredient": "Curd",
+	  "Serving size": "1 cup",
+	  "Gram": "210 g",
+	  "Calories": "206 cal"
+	},
+	{
+	  "Ingredient": "Hot Chocolate",
+	  "Serving size": "1 cup",
+	  "Gram": "266 g",
+	  "Calories": "237 cal"
+	},
+	{
+	  "Ingredient": "Quark",
+	  "Serving size": "1 cup",
+	  "Gram": "220 g",
+	  "Calories": "319 cal"
+	},
+	{
+	  "Ingredient": "Powdered Milk",
+	  "Serving size": "1 cup",
+	  "Gram": "68 g",
+	  "Calories": "337 cal"
+	},
+	{
+	  "Ingredient": "Evaporated Milk",
+	  "Serving size": "1 cup",
+	  "Gram": "252 g",
+	  "Calories": "340 cal"
+	},
+	{
+	  "Ingredient": "Chocolate Mousse",
+	  "Serving size": "1/2 cup",
+	  "Gram": "202 g",
+	  "Calories": "455 cal"
+	},
+	{
+	  "Ingredient": "Coconut Milk",
+	  "Serving size": "1 cup",
+	  "Gram": "240 g",
+	  "Calories": "552 cal"
+	},
+	{
+	  "Ingredient": "Sweetened Condensed Milk",
+	  "Serving size": "1 cup",
+	  "Gram": "306 g",
+	  "Calories": "982 cal"
+	},
+	{
+	  "Ingredient": "Condensed Milk",
+	  "Serving size": "1 cup",
+	  "Gram": "306 g",
+	  "Calories": "982 cal"
+	},
+	{
+	  "Ingredient": "Soft Tofu",
+	  "Serving size": "1 cubic inch",
+	  "Gram": "18 g",
+	  "Calories": "11 cal"
+	},
+	{
+	  "Ingredient": "Mung Beans",
+	  "Serving size": "1 cup",
+	  "Gram": "125 g",
+	  "Calories": "15 cal"
+	},
+	{
+	  "Ingredient": "Peas",
+	  "Serving size": "1 cup",
+	  "Gram": "63 g",
+	  "Calories": "26 cal"
+	},
+	{
+	  "Ingredient": "Bean Sprouts",
+	  "Serving size": "1 cup",
+	  "Gram": "104 g",
+	  "Calories": "31 cal"
+	},
+	{
+	  "Ingredient": "Green Beans",
+	  "Serving size": "1 cup",
+	  "Gram": "100 g",
+	  "Calories": "31 cal"
+	},
+	{
+	  "Ingredient": "Okra",
+	  "Serving size": "1 cup",
+	  "Gram": "100 g",
+	  "Calories": "33 cal"
+	},
+	{
+	  "Ingredient": "Fried Bean Curd",
+	  "Serving size": "1 piece",
+	  "Gram": "13 g",
+	  "Calories": "35 cal"
+	},
+	{
+	  "Ingredient": "Soy Cheese",
+	  "Serving size": "1 slice",
+	  "Gram": "17 g",
+	  "Calories": "40 cal"
+	},
+	{
+	  "Ingredient": "Soya Cheese",
+	  "Serving size": "1 slice",
+	  "Gram": "17 g",
+	  "Calories": "40 cal"
+	},
+	{
+	  "Ingredient": "Black Beans",
+	  "Serving size": "1 tbsp",
+	  "Gram": "12.1 g",
+	  "Calories": "41 cal"
+	},
+	{
+	  "Ingredient": "Bamboo Shoots",
+	  "Serving size": "1 cup",
+	  "Gram": "151 g",
+	  "Calories": "41 cal"
+	},
+	{
+	  "Ingredient": "Sugar Peas",
+	  "Serving size": "1 serving",
+	  "Gram": "100 g",
+	  "Calories": "42 cal"
+	},
+	{
+	  "Ingredient": "Chickpeas",
+	  "Serving size": "1 tbsp",
+	  "Gram": "12.5 g",
+	  "Calories": "44 cal"
+	},
+	{
+	  "Ingredient": "Silken Tofu",
+	  "Serving size": "1 slice",
+	  "Gram": "84 g",
+	  "Calories": "46 cal"
+	},
+	{
+	  "Ingredient": "Sweet Peas",
+	  "Serving size": "1 serving",
+	  "Gram": "100 g",
+	  "Calories": "48 cal"
+	},
+	{
+	  "Ingredient": "Soy Mayonnaise",
+	  "Serving size": "1 tbsp",
+	  "Gram": "15 g",
+	  "Calories": "48 cal"
+	},
+	{
+	  "Ingredient": "Yuba",
+	  "Serving size": "1 oz.",
+	  "Gram": "28.35 g",
+	  "Calories": "49 cal"
+	},
+	{
+	  "Ingredient": "Yam Bean",
+	  "Serving size": "1 cup",
+	  "Gram": "130 g",
+	  "Calories": "49 cal"
+	},
+	{
+	  "Ingredient": "Firm Tofu",
+	  "Serving size": "1/4 block",
+	  "Gram": "81 g",
+	  "Calories": "57 cal"
+	},
+	{
+	  "Ingredient": "Deep-Fried Tofu",
+	  "Serving size": "1 oz.",
+	  "Gram": "28.35 g",
+	  "Calories": "76 cal"
+	},
+	{
+	  "Ingredient": "Extra-Firm Tofu",
+	  "Serving size": "1/5 block",
+	  "Gram": "91 g",
+	  "Calories": "83 cal"
+	},
+	{
+	  "Ingredient": "Flageolet",
+	  "Serving size": "1 serving",
+	  "Gram": "100 g",
+	  "Calories": "85 cal"
+	},
+	{
+	  "Ingredient": "Lima Beans",
+	  "Serving size": "1/2 cup",
+	  "Gram": "124 g",
+	  "Calories": "88 cal"
+	},
+	{
+	  "Ingredient": "Tofu",
+	  "Serving size": "1/2 cup",
+	  "Gram": "124 g",
+	  "Calories": "94 cal"
+	},
+	{
+	  "Ingredient": "Okara",
+	  "Serving size": "1 cup",
+	  "Gram": "122 g",
+	  "Calories": "94 cal"
+	},
+	{
+	  "Ingredient": "Bean Curd",
+	  "Serving size": "1/2 cup",
+	  "Gram": "124 g",
+	  "Calories": "94 cal"
+	},
+	{
+	  "Ingredient": "Rajma",
+	  "Serving size": "1 serving",
+	  "Gram": "100 g",
+	  "Calories": "140 cal"
+	},
+	{
+	  "Ingredient": "Soy Yogurt",
+	  "Serving size": "1 container",
+	  "Gram": "227 g",
+	  "Calories": "150 cal"
+	},
+	{
+	  "Ingredient": "Green Lentil",
+	  "Serving size": "1 cup, dry",
+	  "Gram": "60 g",
+	  "Calories": "154 cal"
+	},
+	{
+	  "Ingredient": "Peanuts",
+	  "Serving size": "1 oz.",
+	  "Gram": "28.35 g",
+	  "Calories": "159 cal"
+	},
+	{
+	  "Ingredient": "Soynut Butter",
+	  "Serving size": "1 serving",
+	  "Gram": "32 g",
+	  "Calories": "180 cal"
+	},
+	{
+	  "Ingredient": "Soy Nut Butter",
+	  "Serving size": "1 serving",
+	  "Gram": "32 g",
+	  "Calories": "180 cal"
+	},
+	{
+	  "Ingredient": "Marron",
+	  "Serving size": "1 serving",
+	  "Gram": "100 g",
+	  "Calories": "210 cal"
+	},
+	{
+	  "Ingredient": "Dal",
+	  "Serving size": "1 serving",
+	  "Gram": "100 g",
+	  "Calories": "230 cal"
+	},
+	{
+	  "Ingredient": "Chili Bean",
+	  "Serving size": "1 cup",
+	  "Gram": "253 g",
+	  "Calories": "245 cal"
+	},
+	{
+	  "Ingredient": "Tempeh",
+	  "Serving size": "1 cup",
+	  "Gram": "166 g",
+	  "Calories": "320 cal"
+	},
+	{
+	  "Ingredient": "Textured Vegetable Protein",
+	  "Serving size": "1 cup",
+	  "Gram": "96 g",
+	  "Calories": "320 cal"
+	},
+	{
+	  "Ingredient": "Textured Soy Protein",
+	  "Serving size": "1 cup",
+	  "Gram": "56 g",
+	  "Calories": "320 cal"
+	},
+	{
+	  "Ingredient": "Azuki Bean",
+	  "Serving size": "1 can",
+	  "Gram": "266 g",
+	  "Calories": "330 cal"
+	},
+	{
+	  "Ingredient": "Red Beans",
+	  "Serving size": "1 can",
+	  "Gram": "266 g",
+	  "Calories": "330 cal"
+	},
+	{
+	  "Ingredient": "Puy Lentils",
+	  "Serving size": "1 serving",
+	  "Gram": "100 g",
+	  "Calories": "345 cal"
+	},
+	{
+	  "Ingredient": "Natto",
+	  "Serving size": "1 cup",
+	  "Gram": "175 g",
+	  "Calories": "371 cal"
+	},
+	{
+	  "Ingredient": "Soybeans",
+	  "Serving size": "1 cup",
+	  "Gram": "256 g",
+	  "Calories": "376 cal"
+	},
+	{
+	  "Ingredient": "Refried Beans",
+	  "Serving size": "1 can",
+	  "Gram": "443 g",
+	  "Calories": "403 cal"
+	},
+	{
+	  "Ingredient": "Miso",
+	  "Serving size": "1 cup",
+	  "Gram": "275 g",
+	  "Calories": "547 cal"
+	},
+	{
+	  "Ingredient": "Yellow Lentils",
+	  "Serving size": "1 cup",
+	  "Gram": "200 g",
+	  "Calories": "608 cal"
+	},
+	{
+	  "Ingredient": "Red Kidney Bean",
+	  "Serving size": "1 cup",
+	  "Gram": "184 g",
+	  "Calories": "620 cal"
+	},
+	{
+	  "Ingredient": "Kidney Beans",
+	  "Serving size": "1 cup",
+	  "Gram": "184 g",
+	  "Calories": "620 cal"
+	},
+	{
+	  "Ingredient": "Red Lentils",
+	  "Serving size": "1 cup",
+	  "Gram": "197 g",
+	  "Calories": "648 cal"
+	},
+	{
+	  "Ingredient": "Pinto Beans",
+	  "Serving size": "1 cup",
+	  "Gram": "193 g",
+	  "Calories": "670 cal"
+	},
+	{
+	  "Ingredient": "Brown Lentil",
+	  "Serving size": "1 cup",
+	  "Gram": "192 g",
+	  "Calories": "678 cal"
+	},
+	{
+	  "Ingredient": "Lentils",
+	  "Serving size": "1 cup",
+	  "Gram": "192 g",
+	  "Calories": "678 cal"
+	},
+	{
+	  "Ingredient": "Pecan",
+	  "Serving size": "1 cup",
+	  "Gram": "99 g",
+	  "Calories": "684 cal"
+	},
+	{
+	  "Ingredient": "Navy Bean",
+	  "Serving size": "1 cup",
+	  "Gram": "208 g",
+	  "Calories": "701 cal"
+	},
+	{
+	  "Ingredient": "Black Gram",
+	  "Serving size": "1 cup",
+	  "Gram": "207 g",
+	  "Calories": "706 cal"
+	},
+	{
+	  "Ingredient": "Green Gram",
+	  "Serving size": "1 cup",
+	  "Gram": "207 g",
+	  "Calories": "718 cal"
+	},
+	{
+	  "Ingredient": "White Beans",
+	  "Serving size": "1 cup",
+	  "Gram": "215 g",
+	  "Calories": "722 cal"
+	},
+	{
+	  "Ingredient": "Bengal Gram",
+	  "Serving size": "1 cup",
+	  "Gram": "200 g",
+	  "Calories": "728 cal"
+	},
+	{
+	  "Ingredient": "Black Chickpeas",
+	  "Serving size": "1 cup",
+	  "Gram": "200 g",
+	  "Calories": "728 cal"
+	},
+	{
+	  "Ingredient": "Butternut",
+	  "Serving size": "1 cup",
+	  "Gram": "120 g",
+	  "Calories": "734 cal"
+	},
+	{
+	  "Ingredient": "Roasted Soybeans",
+	  "Serving size": "1 cup",
+	  "Gram": "172 g",
+	  "Calories": "810 cal"
+	},
+	{
+	  "Ingredient": "Soy Nuts",
+	  "Serving size": "1 cup",
+	  "Gram": "256 g",
+	  "Calories": "1206 cal"
+	},
+	{
+	  "Ingredient": "Turkey Wings",
+	  "Serving size": "1 wing",
+	  "Gram": "24 g",
+	  "Calories": "53 cal"
+	},
+	{
+	  "Ingredient": "Chicken Liver",
+	  "Serving size": "1 liver",
+	  "Gram": "44 g",
+	  "Calories": "73 cal"
+	},
+	{
+	  "Ingredient": "Chicken Wing",
+	  "Serving size": "1 wing",
+	  "Gram": "29 g",
+	  "Calories": "77 cal"
+	},
+	{
+	  "Ingredient": "Beef Jerky",
+	  "Serving size": "1 piece",
+	  "Gram": "20 g",
+	  "Calories": "82 cal"
+	},
+	{
+	  "Ingredient": "Ostrich",
+	  "Serving size": "1 serving",
+	  "Gram": "85 g",
+	  "Calories": "123 cal"
+	},
+	{
+	  "Ingredient": "Chicken Drumstick",
+	  "Serving size": "1 drumstick",
+	  "Gram": "71 g",
+	  "Calories": "131 cal"
+	},
+	{
+	  "Ingredient": "Pork Baby Back Ribs",
+	  "Serving size": "1 rib",
+	  "Gram": "70 g",
+	  "Calories": "148 cal"
+	},
+	{
+	  "Ingredient": "Pork Country-Style Ribs",
+	  "Serving size": "1 rib",
+	  "Gram": "60 g",
+	  "Calories": "148 cal"
+	},
+	{
+	  "Ingredient": "Pork Loin",
+	  "Serving size": "1 chop",
+	  "Gram": "83 g",
+	  "Calories": "169 cal"
+	},
+	{
+	  "Ingredient": "Ground Beef",
+	  "Serving size": "1 patty",
+	  "Gram": "70 g",
+	  "Calories": "172 cal"
+	},
+	{
+	  "Ingredient": "Schnitzel",
+	  "Serving size": "1 schnitzel",
+	  "Gram": "130 g",
+	  "Calories": "203 cal"
+	},
+	{
+	  "Ingredient": "Chicken Gizzards",
+	  "Serving size": "1 cup",
+	  "Gram": "145 g",
+	  "Calories": "212 cal"
+	},
+	{
+	  "Ingredient": "Chicken Giblets",
+	  "Serving size": "1 cup",
+	  "Gram": "145 g",
+	  "Calories": "229 cal"
+	},
+	{
+	  "Ingredient": "Ham",
+	  "Serving size": "1 slice",
+	  "Gram": "145 g",
+	  "Calories": "236 cal"
+	},
+	{
+	  "Ingredient": "Chicken Thigh",
+	  "Serving size": "1 thigh",
+	  "Gram": "111 g",
+	  "Calories": "254 cal"
+	},
+	{
+	  "Ingredient": "Pork Chops",
+	  "Serving size": "1 chop",
+	  "Gram": "131 g",
+	  "Calories": "257 cal"
+	},
+	{
+	  "Ingredient": "Ground Round",
+	  "Serving size": "1 piece",
+	  "Gram": "113 g",
+	  "Calories": "278 cal"
+	},
+	{
+	  "Ingredient": "Filet Mignon",
+	  "Serving size": "1 fillet",
+	  "Gram": "104 g",
+	  "Calories": "278 cal"
+	},
+	{
+	  "Ingredient": "Beef Tenderloin",
+	  "Serving size": "1 steak",
+	  "Gram": "140 g",
+	  "Calories": "305 cal"
+	},
+	{
+	  "Ingredient": "Turkey Steak",
+	  "Serving size": "1 steak",
+	  "Gram": "170 g",
+	  "Calories": "321 cal"
+	},
+	{
+	  "Ingredient": "Cubed Steak",
+	  "Serving size": "1 serving",
+	  "Gram": "165 g",
+	  "Calories": "328 cal"
+	},
+	{
+	  "Ingredient": "Chicken Breast",
+	  "Serving size": "1 breast",
+	  "Gram": "200 g",
+	  "Calories": "344 cal"
+	},
+	{
+	  "Ingredient": "Chicken Meat",
+	  "Serving size": "1 breast",
+	  "Gram": "200 g",
+	  "Calories": "344 cal"
+	},
+	{
+	  "Ingredient": "Flat Iron Steak",
+	  "Serving size": "1 steak",
+	  "Gram": "252 g",
+	  "Calories": "345 cal"
+	},
+	{
+	  "Ingredient": "Chicken Leg",
+	  "Serving size": "1 leg",
+	  "Gram": "199 g",
+	  "Calories": "346 cal"
+	},
+	{
+	  "Ingredient": "Pork",
+	  "Serving size": "1 chop",
+	  "Gram": "185 g",
+	  "Calories": "363 cal"
+	},
+	{
+	  "Ingredient": "Flank Steak",
+	  "Serving size": "1 steak",
+	  "Gram": "188 g",
+	  "Calories": "365 cal"
+	},
+	{
+	  "Ingredient": "Standing Rib Roast",
+	  "Serving size": "1 serving",
+	  "Gram": "113 g",
+	  "Calories": "376 cal"
+	},
+	{
+	  "Ingredient": "Beef",
+	  "Serving size": "1 steak",
+	  "Gram": "164 g",
+	  "Calories": "407 cal"
+	},
+	{
+	  "Ingredient": "New York Strip Steak",
+	  "Serving size": "1 steak",
+	  "Gram": "214 g",
+	  "Calories": "426 cal"
+	},
+	{
+	  "Ingredient": "Round Steak",
+	  "Serving size": "1 steak",
+	  "Gram": "236 g",
+	  "Calories": "430 cal"
+	},
+	{
+	  "Ingredient": "Pork Steaks",
+	  "Serving size": "1 steak",
+	  "Gram": "264 g",
+	  "Calories": "517 cal"
+	},
+	{
+	  "Ingredient": "Beef Ribs",
+	  "Serving size": "1 piece",
+	  "Gram": "225 g",
+	  "Calories": "536 cal"
+	},
+	{
+	  "Ingredient": "T-Bone Steak",
+	  "Serving size": "1 steak",
+	  "Gram": "287 g",
+	  "Calories": "580 cal"
+	},
+	{
+	  "Ingredient": "Roast Beef",
+	  "Serving size": "1 roast",
+	  "Gram": "515 g",
+	  "Calories": "721 cal"
+	},
+	{
+	  "Ingredient": "Chicken",
+	  "Serving size": "1/2 chicken",
+	  "Gram": "334 g",
+	  "Calories": "731 cal"
+	},
+	{
+	  "Ingredient": "Chuck Steak",
+	  "Serving size": "1 steak",
+	  "Gram": "310 g",
+	  "Calories": "859 cal"
+	},
+	{
+	  "Ingredient": "Turkey Legs",
+	  "Serving size": "1 leg",
+	  "Gram": "546 g",
+	  "Calories": "1136 cal"
+	},
+	{
+	  "Ingredient": "Turkey Breast",
+	  "Serving size": "1/2 breast",
+	  "Gram": "864 g",
+	  "Calories": "1166 cal"
+	},
+	{
+	  "Ingredient": "Chicken Fat",
+	  "Serving size": "1 cup",
+	  "Gram": "205 g",
+	  "Calories": "1841 cal"
+	},
+	{
+	  "Ingredient": "Pork Roast",
+	  "Serving size": "1 roast",
+	  "Gram": "830 g",
+	  "Calories": "2108 cal"
+	},
+	{
+	  "Ingredient": "Duck",
+	  "Serving size": "1/2 duck",
+	  "Gram": "634 g",
+	  "Calories": "2137 cal"
+	},
+	{
+	  "Ingredient": "Spare Ribs",
+	  "Serving size": "1 rack",
+	  "Gram": "1400 g",
+	  "Calories": "3332 cal"
+	},
+	{
+	  "Ingredient": "Beef Brisket",
+	  "Serving size": "1 piece",
+	  "Gram": "1780 g",
+	  "Calories": "4308 cal"
+	},
+	{
+	  "Ingredient": "Turkey",
+	  "Serving size": "1 turkey",
+	  "Gram": "3812 g",
+	  "Calories": "7205 cal"
+	}
+  ]
+}  
