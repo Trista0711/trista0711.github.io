@@ -7,12 +7,11 @@ $(document).ready(function(){
   $.getJSON(airtable_read_endpoint, function(result){
       $.each(result.records, function(key,value){
           items = [];
-          items.push(value.fields.Name);   //no space when naming the fields. 
+          items.push(value.fields.Name);   
           items.push(value.fields.Quantity);
-          //items.push(value.fields.Rainfall);
           dataSet.push(items);
           console.log(items);    
-      }); // end .each
+      }); 
           console.log(dataSet);
 
 
@@ -20,14 +19,13 @@ $(document).ready(function(){
         data: {
             columns: dataSet,
             type : 'bar',
-            //types:dataSet.Rainfall:'line',
             order: 'asc',
         },
         
     });
 
 
-  }); // end .getJSON
+  }); 
 
 });
 
