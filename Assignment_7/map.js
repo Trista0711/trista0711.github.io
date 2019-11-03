@@ -4,6 +4,7 @@ var mapboxTiles = L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png
         .addLayer(mapboxTiles)
         .setView([22.3193,114.1694], 13);
 
+
         var marker = L.marker([22.3193,114.1694], {draggable: true})
         .bindPopup( '<a href="https://en.wikipedia.org/wiki/North_Point" target="_blank">North Point</a>')
         .addTo(map);
@@ -11,7 +12,7 @@ var mapboxTiles = L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png
 
 
 var items = [];
-var airtable_read_endpoint = "https://api.airtable.com/v0/appEc48NUSnMDLuom/FreshMarketInHongKong?api_key=keyuiXff1qX79IbYA"
+var airtable_read_endpoint = "https://api.airtable.com/v0/appEc48NUSnMDLuom/FreshMarketInHongKong?api_key=keyuiXff1qX79IbYA";
 
 var data = [];
 $.getJSON(airtable_read_endpoint, function(result) {
