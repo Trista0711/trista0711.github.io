@@ -12,7 +12,7 @@ var mapboxTiles = L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png
 
 
 var items = [];
-var airtable_read_endpoint = "https://api.airtable.com/v0/appEc48NUSnMDLuom/FreshMarketInHongKong?api_key=keyuiXff1qX79IbYA";
+var airtable_read_endpoint = "https://api.airtable.com/v0/app240IewSUXfB0Q4/Map?api_key=YOUR_API_KEY";
 
 var data = [];
 $.getJSON(airtable_read_endpoint, function(result) {
