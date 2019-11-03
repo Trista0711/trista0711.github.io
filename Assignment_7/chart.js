@@ -1,5 +1,9 @@
+$(document).ready(function(){
+
 var items = [];
-var airtable_read_endpoint = "https://api.airtable.com/v0/appEc48NUSnMDLuom/DailyMaxIntake?api_key=keyuiXff1qX79IbYA"
+var i = 0;
+var airtable_read_endpoint = "https://api.airtable.com/v0/appEc48NUSnMDLuom/DailyMaxIntake?api_key=keyuiXff1qX79IbYA";
+var dataSet = [];
 
 $.getJSON(airtable_read_endpoint, function(result) {
     $.each(result.records, function(key,value) {
@@ -20,6 +24,5 @@ $.getJSON(airtable_read_endpoint, function(result) {
      },
 
 
-     })
-    
-
+     });
+});
