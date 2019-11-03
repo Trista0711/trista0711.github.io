@@ -2,7 +2,7 @@ $(document).ready(function(){
 
 var items = [];
 var i = 0;
-var airtable_read_endpoint = "https://api.airtable.com/v0/appEc48NUSnMDLuom/DailyMaxIntake?api_key=keyuiXff1qX79IbYA";
+var airtable_read_endpoint = "https://api.airtable.com/v0/appEc48NUSnMDLuom/DailyMaxIntake?api_key=keyqCeiJ2hCd2sEpn";
 var dataSet = [];
 
 $.getJSON(airtable_read_endpoint, function(result) {
@@ -20,7 +20,7 @@ $.getJSON(airtable_read_endpoint, function(result) {
  var chart = c3.generate({
      data: {
          columns: dataSet,
-         type: 'bar'
+         type: 'bar',
      },
 
 
