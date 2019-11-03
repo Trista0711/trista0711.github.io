@@ -12,7 +12,7 @@ var mapboxTiles = L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png
 
 
 var items = [];
-var airtable_read_endpoint = "https://api.airtable.com/v0/appplzvK2EfSUdMhC/MAP?api_key=keysAky6ucMNj4qo4";
+var airtable_read_endpoint = "https://api.airtable.com/v0/app240IewSUXfB0Q4/Map?api_key=keyqCeiJ2hCd2sEpn";
 
 var data = [];
 $.getJSON(airtable_read_endpoint, function(result) {
