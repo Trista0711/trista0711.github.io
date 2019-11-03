@@ -12,7 +12,7 @@ var mapboxTiles = L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png
 
 
 var items = [];
-var airtable_read_endpoint = "https://api.airtable.com/v0/app240IewSUXfB0Q4/Map?api_key=YOUR_API_KEY";
+var airtable_read_endpoint = "https://api.airtable.com/v0/appplzvK2EfSUdMhC/MAP?api_key=keysAky6ucMNj4qo4";
 
 var data = [];
 $.getJSON(airtable_read_endpoint, function(result) {
@@ -25,19 +25,14 @@ $.getJSON(airtable_read_endpoint, function(result) {
         data.push(items);
             console.log(items);
         });
-
+        
+        for (var i in data) {
+            var latlng = L.latlng({ lat: data[i].Lat, lng: data[i].Lng});
+            L.marker( latlng )
+            .bindPopup(data[i].Name + '<img src="' + data[i].img_url+'"width = "80px">')
+            .addTo(map);}
+        
         
         });
-        
-        function show_map(){
-            for (var i in data) {
-                var latlng = L.latlng({ lat: data[i].Lat, lng: data[i].Lng});
-                L.marker( latlng )
-                .bindPopup(data[i].Name + '<img src="' + data[i].img_url+'"width = "80px">')
-                .addTo(map);
-            }}
-        
-        
-    
- L.geoJson(marker).addTo(map);
 
+ L.geoJson(marker).addTo(map);
