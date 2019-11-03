@@ -25,14 +25,19 @@ $.getJSON(airtable_read_endpoint, function(result) {
         data.push(items);
             console.log(items);
         });
-        
-        for (var i in data) {
-            var latlng = L.latlng({ lat: data[i].Lat, lng: data[i].Lng});
-            L.marker( latlng )
-            .bindPopup(data[i].Name + '<img src="' + data[i].img_url+'"width = "80px">')
-            .addTo(map);}
-        
+
         
         });
-
+        
+        function show_map(){
+            for (var i in data) {
+                var latlng = L.latlng({ lat: data[i].Lat, lng: data[i].Lng});
+                L.marker( latlng )
+                .bindPopup(data[i].Name + '<img src="' + data[i].img_url+'"width = "80px">')
+                .addTo(map);
+            }}
+        
+        
+    
  L.geoJson(marker).addTo(map);
+
