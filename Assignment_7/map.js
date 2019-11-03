@@ -2,7 +2,7 @@ var mapboxTiles = L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png
         {attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a>', maxZoom: 18,});
         var map = L.map('map')
         .addLayer(mapboxTiles)
-        .setView([22.3193,114.1694], 13);
+        .setView([22.3193,114.1694], 10);
 
 
         var marker = L.marker([22.3193,114.1694], {draggable: true})
