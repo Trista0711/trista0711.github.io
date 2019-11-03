@@ -2,7 +2,7 @@ $(document).ready(function(){
 
 var items = [];
 var i = 0;
-var airtable_read_endpoint = "https://api.airtable.com/v0/appEc48NUSnMDLuom/DailyMaxIntake?api_key=keyqCeiJ2hCd2sEpn";
+var airtable_read_endpoint = "https://api.airtable.com/v0/appLPE7yDFPFC33k2/Imported%20table?api_key=keysAky6ucMNj4qo4";
 var dataSet = [];
 
 $.getJSON(airtable_read_endpoint, function(result) {
