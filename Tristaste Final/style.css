@@ -6745,3 +6745,7 @@ body {
 .cover .cover-image.cover-image-fixed {
   background-attachment: fixed;
 }
+
+.footer {
+  background-color: black;
+}
