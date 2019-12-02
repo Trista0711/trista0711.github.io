@@ -10,7 +10,7 @@ $(document).ready(function(){
         $.getJSON(airtable_read_endpoint, function(result) {
                $.each(result.records, function(key,value) {
                    items = [];
-                       items.push(value.fields.Name);
+                       items.push(value.fields.Food);
                        items.push(value.fields.Description);
                        items.push(value.fields.Category);
                        dataSet.push(items);
