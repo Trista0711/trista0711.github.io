@@ -22,7 +22,7 @@ $(document).ready(function(){
                  data: dataSet,
                  retrieve: true,
                  columns: [
-                    { title: "Name",
+                    { title: "Food",
                       defaultContent:"" },
                      { title: "Description",
                          defaultContent:"" },
